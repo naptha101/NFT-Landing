@@ -9,7 +9,7 @@ const InfoSection = () => {
       <div className="ic-inner-wrapper">
         <div className="ic-content">
           <div className="is-heading absolute-center">
-            <span className="heading-gradient">Create and sell your NFTs</span>
+            <span className="heading-gradient">Create your NFTs and Sell them</span>
           </div>
           <div className='is-items-container'>
             {INFO_ITEMS.map((_infoItem) => (

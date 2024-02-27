@@ -17,7 +17,7 @@ const TopFold = () => {
           </span>
         </div>
         <div className="tf-description">
-          Immerse yourself in a world of digital wonders with our exclusive NFT
+          Dive yourself in a world of digital wonders with our exclusive NFT
           collections. Discover and own unique pieces of digital art, each
           authenticated and secured by blockchain technology.
         </div>
